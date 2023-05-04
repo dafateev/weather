@@ -1,2 +1,2 @@
 ### Weather
-Simple console application example parsing weather site https://www.pogoda.msk.ru/
+Простое консольное приложение парсинга сайта погоды https://www.pogoda.msk.ru/
